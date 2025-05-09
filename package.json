@@ -1,0 +1,7 @@
+{
+  "name": "dev.drywetmidi",
+  "version": "0.0.1",
+  "displayName": "Dry Wet MIDI",
+  "type": "tool",
+  "hideInEditor": false
+}
